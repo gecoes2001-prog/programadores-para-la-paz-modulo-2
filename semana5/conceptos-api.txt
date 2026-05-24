@@ -1,3 +1,5 @@
-La ruta POST /reporte recibe datos enviados en el cuerpo de la solicitud y responde con un JSON confirmando la recepción.
+Qué hace esta ruta:
+La ruta POST /reporte recibe datos enviados en el cuerpo de la solicitud y responde con un JSON confirmando que el reporte fue recibido.
 
-En una aplicación comunitaria podría servir para que los ciudadanos envíen reportes de problemas locales, alertas de seguridad o solicitudes de ayuda de manera organizada.
+Para qué podría servir en una aplicación comunitaria:
+Podría servir para que los ciudadanos envíen reportes de problemas locales, alertas de seguridad o solicitudes de ayuda de manera organizada.
