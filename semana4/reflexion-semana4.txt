@@ -1,7 +1,13 @@
-Es importante que las comunidades puedan construir herramientas tecnológicas propias usando tecnologías abiertas como Node.js.
+Las tecnologías abiertas como Node.js son fundamentales para el desarrollo de herramientas tecnológicas en comunidades e iniciativas ciudadanas.
 
-Esto les permite independencia tecnológica, reducción de costos y transparencia en el desarrollo.
+En primer lugar, eliminan barreras económicas al no requerir licencias costosas, permitiendo que cualquier persona con acceso a internet pueda aprender y construir soluciones.
 
-Además, tienen la capacidad de adaptar las soluciones a sus necesidades específicas sin depender de software propietario.
+Además, promueven la soberanía tecnológica, ya que las comunidades no dependen de corporaciones externas para mantener o modificar sus sistemas.
 
-Esto fomenta la innovación local, el aprendizaje colaborativo y el empoderamiento digital ciudadano.
+La naturaleza colaborativa del código abierto fomenta el intercambio de conocimiento entre desarrolladores de todo el mundo.
+
+Esto acelera la innovación y permite que las soluciones se adapten a contextos locales específicos, como los de Cartagena.
+
+Finalmente, empoderan a los ciudadanos para que sean creadores y no solo consumidores de tecnología.
+
+Construir herramientas propias fortalece la identidad digital de las comunidades y abre puertas al emprendimiento tecnológico local.
