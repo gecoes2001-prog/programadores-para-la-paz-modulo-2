@@ -1,0 +1,8 @@
+Las APIs permiten que las comunidades compartan información de manera organizada al establecer canales estandarizados de comunicación entre sistemas.
+Esto facilita que diferentes plataformas puedan enviar y recibir datos sin depender de un mismo software o infraestructura.
+Por ejemplo, una API puede recibir reportes ciudadanos desde una aplicación móvil y distribuirlos automáticamente a bases de datos, mapas o sistemas de alerta.
+Las alertas pueden enviarse en tiempo real a múltiples usuarios conectados, mejorando la respuesta comunitaria ante emergencias.
+Además, las APIs permiten clasificar y filtrar la información para que cada actor reciba solo lo relevante para su rol.
+Esto evita la saturación de datos y mejora la toma de decisiones en la comunidad.
+Al usar APIs abiertas, las comunidades pueden integrar herramientas de terceros sin costos de licencias restrictivas.
+Finalmente, las APIs fomentan la transparencia al permitir que cualquier miembro autorizado acceda a la información pública de manera controlada.

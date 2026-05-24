@@ -1,0 +1,3 @@
+Ruta / : Muestra el mensaje "Servidor activo", indica que el servidor está funcionando correctamente.
+Ruta /saludo : Muestra el mensaje "Hola comunidad", es una ruta estática que envía un saludo.
+Ruta /mensaje/juan : Muestra "Hola juan", usa parámetros dinámicos para personalizar el mensaje según el nombre ingresado.
